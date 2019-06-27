@@ -1,2 +1,2 @@
 # PhoneStoreFront
-A store from for 3 different IOS
+A store from for 3 different OS
